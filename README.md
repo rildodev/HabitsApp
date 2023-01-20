@@ -45,7 +45,7 @@ O HabtisApp é uma aplicação que permtite registrar pequenas taferas do cotidi
 <br>
 
 <p align="center">
-  <img alt="projeto HabitsApp" src="https://github.com/rildodev/HabitsApp/blob/master/assets/images/layout/HabitsApp_Mobile.jpeg" width="50%">
+  <img alt="projeto HabitsApp" src="https://github.com/rildodev/HabitsApp/blob/master/assets/images/layout/HabitsApp_Mobile.jpeg" width="30%">
 </p>
 
 <br>
